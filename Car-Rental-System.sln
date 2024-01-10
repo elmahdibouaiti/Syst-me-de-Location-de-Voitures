@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car-Rental-System", "Car-Rental-System\Car-Rental-System.csproj", "{27A4964E-DD9F-4C39-A2C5-EA34B2B1D748}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Login Animation Material Design", "..\..\..\Downloads\Login-Animation-Material-Design-main\Login Animation Material Design.vbproj", "{3BDE4FA4-A66A-4FC5-9080-6870974E2CCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart Home Dashboard UI", "..\..\..\Downloads\Smart-Home-Dashboard-UI-main\Smart Home Dashboard UI\Smart Home Dashboard UI.csproj", "{3688A27E-A388-48EF-A5C3-E7B91B4B0C84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A4964E-DD9F-4C39-A2C5-EA34B2B1D748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A4964E-DD9F-4C39-A2C5-EA34B2B1D748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A4964E-DD9F-4C39-A2C5-EA34B2B1D748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A4964E-DD9F-4C39-A2C5-EA34B2B1D748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BDE4FA4-A66A-4FC5-9080-6870974E2CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDE4FA4-A66A-4FC5-9080-6870974E2CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDE4FA4-A66A-4FC5-9080-6870974E2CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDE4FA4-A66A-4FC5-9080-6870974E2CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3688A27E-A388-48EF-A5C3-E7B91B4B0C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3688A27E-A388-48EF-A5C3-E7B91B4B0C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3688A27E-A388-48EF-A5C3-E7B91B4B0C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3688A27E-A388-48EF-A5C3-E7B91B4B0C84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1B170BD-5D4D-4DFF-8EF9-D872C6D13F7D}
+	EndGlobalSection
+EndGlobal
